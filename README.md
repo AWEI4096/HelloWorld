@@ -1,2 +1,2 @@
 # HelloWorld
-👋 Hi, I’m @AWEI4096,this is my first Github project.
+👋 Hi, I’m AWEI,this is my first Github project.
